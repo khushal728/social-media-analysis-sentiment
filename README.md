@@ -17,6 +17,7 @@ Visualization: Provides insights using sentiment distribution graphs, word cloud
 Model Training & Evaluation: Uses machine learning or deep learning models to enhance accuracy.
 
 # Technologies Used
+
 Python
 
 Jupyter Notebook
@@ -24,6 +25,13 @@ Jupyter Notebook
 Natural Language Toolkit (NLTK)
 
 TextBlob
+
+Scikit-learn
+
+Pandas & NumPy
+
+
+Matplotlib & Seaborn
 
 # Usage
 
@@ -55,15 +63,12 @@ This project is licensed under the MIT License.
 
 # Contact
 
-For any inquiries, reach out to [Your Name] at your.email@example.com
+For any inquiries, reach out to Khushal joshi at khushalj2003@gmail.com
 
 
 
 
 
 
-Scikit-learn
 
-Pandas & NumPy
 
-Matplotlib & Seaborn
